@@ -1,0 +1,180 @@
+body {
+  width: 1200px;
+  justify-content: center;
+}
+
+section {
+
+  background-image: url(assets/background-1.png);
+  background-position-x :right;
+  background-size: cover;
+  width: 1200px;
+  height: 822px;
+  display: block;
+  align-content: center;
+  text-align: center;
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif ;
+
+}
+#project-title {
+  position: absolute;
+  width: 91px;
+  height: 16px;
+  left: 152px;
+  top: 45px;
+  font-family: 'Source Sans Pro', sans-serif ;
+  font-weight: 600;
+  line-height: 16px;
+}
+
+ul {
+  position: absolute;
+  width: 395px;
+  height: 22px;
+  left: 408px;
+  top: 49px;
+  justify-content: space-around;
+
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+ul, li {
+  align-items: center;
+  text-decoration: none;
+  display: inline;
+  justify-content: space-around;
+}
+
+header {
+  padding: 50px;
+}
+
+article {
+  background-image: url(assets/background-2.png);
+  background-size: cover;
+  width: 1200px;
+  height: 666px;
+  left: 0px;
+  top: 1500px;
+  display: block;
+  align-content: center;
+  text-align: center;
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif ;
+}
+
+article h2 {
+  position: absolute;
+  width: 480px;
+  height: 117px;
+  left: 360px;
+  top: 1600px;
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 64px;
+}
+
+article p {
+  position: absolute;
+  width: 390px;
+  height: 102px;
+  left: 395px;
+  top: 1974px;
+
+}
+
+article button {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  left: 525px;
+  top: 1754px;
+}
+
+main {
+  width: 1200px;
+  height: 700px;
+  left: 0px;
+  top: 800px;
+  font-family: 'Source Sans Pro', sans-serif ;
+  align-content: center;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  font-size: Bold;
+  font-size: 48px;
+  line-height: 64px;
+}
+
+section h2 {
+  font-weight: 400;
+  font-size: 24px;
+  color: rgba(255, 255, 255, 0.7);
+
+  align-content: center;
+}
+
+main div {
+  position: absolute;
+  width: 983px;
+  height: 194px;
+  left: 97px;
+  top: 1151px;
+}
+main h2 {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 64px;
+  color: #464547;
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 64px;
+}
+
+main h3 {
+  position: absolute;
+  width: 426px;
+  height: 57px;
+  left: 387px;
+  top: 1046px;
+  color: #666666;
+  }
+
+main button {
+  position: absolute;
+  width: 115px;
+  height: 36px;
+  left: 542px;
+  top: 1366px;
+
+}
+
+footer {
+  position: absolute;
+  width: 1200px;
+  height: 170px;
+  left: 0px;
+  top: 2166px;
+  background: #464547;
+}
+
+footer div {
+  position: absolute;
+  width: 128px;
+  height: 20px;
+  left: 145px;
+  top: 2185px;
+
+}
